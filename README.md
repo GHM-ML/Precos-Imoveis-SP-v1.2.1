@@ -1,6 +1,6 @@
 # Precos-Imoveis-SP
 Modelo de Regressão para predição dos preços de imóveis em São Paulo - SP
-O projeto foi criado para fins de aprendizado em Machine Learning, empacotamento e distribuição de programa
+O projeto foi criado para fins de aprendizado em Machine Learning, empacotamento e distribuição de programa.
 É baseado na submissão pessoal do projeto Imersão Dados 4 da Alura Cursos.
 
 ## Treinamento
