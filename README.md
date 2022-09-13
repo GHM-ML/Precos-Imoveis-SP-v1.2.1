@@ -15,4 +15,4 @@ tox -e train
 # Para treinar e testar o desempenho no conjunto de teste, execute:
 tox -e test_package
 ``` 
-#### Não será exibida nenhuma métrica de desempenho, pois elas já se encontram no repositório "Imersão Dados 4 da Alura Cursos".
+#### Não será exibida nenhuma métrica de desempenho do modelo, elas já se encontram no repositório "Imersão Dados 4 da Alura Cursos".
